@@ -1,4 +1,4 @@
-# 📊 The Cannabis Effect on Crime: Prediction Model
+# 📊 The Cannabis Effect on Crime: Data Correlation and Research Analysis
 
 This repository contains the code and analysis for a research project that investigates the relationship between the presence of medical marijuana dispensaries (MMDs) and neighbourhood crime rates in Los Angeles using machine learning and data mining techniques.
 
